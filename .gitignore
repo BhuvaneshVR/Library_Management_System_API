@@ -1,0 +1,22 @@
+# Maven / Java
+/target/
+/.mvn/
+*.log
+*.tmp
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE
+/.idea/
+*.iml
+*.ipr
+*.iws
+/.project
+/.classpath
+/.settings/
+
+# Environment
+.env
+.env.*
